@@ -1,7 +1,8 @@
 this is just for testing 
 A simple txt file
 
-And this is a second line for my second commit.
+And this is a second line for my second commit. 
 
 further work on first.txt
+
 
